@@ -1,5 +1,6 @@
 ## Requirements:  
-gcc compiler. 
+gcc compiler
+make utility
 
 ## Download & Compile
 Clone repository:
